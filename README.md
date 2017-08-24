@@ -1,2 +1,2 @@
 # A-Flask-Website
-I learn to build a website using Flask 
+A simple website built with Flask 
